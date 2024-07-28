@@ -48,3 +48,7 @@ The application should now be running on [http://localhost:3000](http://localhos
 1. Sign up for an account or log in if you already have one.
 2. Click on a user in the sidebar to start a chat.
 3. Type your message and press send or use the attachment button to send images.
+
+## Contact
+
+   Jeewaka - supunprabodha789@gmail.com 
