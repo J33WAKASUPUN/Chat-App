@@ -2,7 +2,11 @@
 
 Space Chat is a modern, real-time chat application built with React and Firebase. It offers a sleek, space-themed user interface for seamless communication.
 
-![Space Chat Screenshot](path_to_your_screenshot.png)
+![Space Chat Screenshot](./screenshots/login.jpg)
+![Space Chat Screenshot](./screenshots/register.jpg)
+![Space Chat Screenshot](./screenshots/chat.jpg)
+
+
 
 ## Features
 
